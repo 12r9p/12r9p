@@ -9,21 +9,18 @@
 
 ### 🛠️ Tech Stack
 
+<!-- Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,docker,git,cpp,arduino,swift,linux&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,swift,arduino,react,nextjs,tailwind,nodejs,postgres,docker,git,linux&theme=dark" alt="Languages" />
 </div>
 
 <br/>
 
+<!-- Creative Tools -->
 <div align="center">
-  <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33"
-  alt="Proxmox" />
-</div>
-<div align="center">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/DaVinci_Resolve-333333?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AudoDesk" />
+  <img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk" />
 </div>
 
 <br/>

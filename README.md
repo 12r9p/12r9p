@@ -27,16 +27,3 @@
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12r9p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Takumi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12r9p&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Let's build something amazing together.</sub>
-</div>
